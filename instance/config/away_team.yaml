@@ -1,0 +1,11 @@
+team_name: 'Seahawks'
+pass_pct: .5
+pass_stats:
+  yds: 9.57
+  sd: 3.48
+run_stats:
+  yds: 4.5
+  sd: 6
+punt_stats:
+  yds: 47.6
+  sd: 20

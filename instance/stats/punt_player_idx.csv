@@ -1,0 +1,35 @@
+RK,Name,player_href,team,POS,GP,PUNTS,YDS,LNG,AVG,NET,PBLK,IN20,TB,FC,ATT,YDS,AVG
+1,Braden Mann,http://www.espn.com/nfl/player/_/id/4035239/braden-mann,NYJ,P,1,1,56,56,56.0,52.0,0,0,0,0,1,4,4.0
+1,AJ Cole,http://www.espn.com/nfl/player/_/id/3686689/aj-cole,LV,P,8,31,"1,624",71,52.4,43.8,0,13,3,7,16,205,12.8
+2,Andy Lee,http://www.espn.com/nfl/player/_/id/5713/andy-lee,ARI,P,9,31,"1,584",62,51.1,43.1,0,7,4,4,19,167,8.8
+3,Tress Way,http://www.espn.com/nfl/player/_/id/16166/tress-way,WSH,P,8,22,"1,109",66,50.4,43.0,0,6,1,4,14,143,10.2
+4,Jack Fox,http://www.espn.com/nfl/player/_/id/3916370/jack-fox,DET,P,8,28,"1,411",67,50.4,45.1,0,12,2,7,11,108,9.8
+5,Blake Gillikin,http://www.espn.com/nfl/player/_/id/4045180/blake-gillikin,NO,P,8,33,"1,611",63,48.8,43.4,0,13,2,7,15,140,9.3
+6,Corey Bojorquez,http://www.espn.com/nfl/player/_/id/4039396/corey-bojorquez,GB,P,9,28,"1,363",82,48.7,44.0,0,10,2,4,13,90,6.9
+7,Bryan Anger,http://www.espn.com/nfl/player/_/id/14950/bryan-anger,DAL,P,8,22,"1,070",63,48.6,43.0,0,9,3,7,10,63,6.3
+8,Thomas Morstead,http://www.espn.com/nfl/player/_/id/12701/thomas-morstead,NYJ,P,7,23,"1,108",59,48.2,43.0,0,7,0,10,10,119,11.9
+9,Jake Bailey,http://www.espn.com/nfl/player/_/id/3931395/jake-bailey,NE,P,9,28,"1,341",68,47.9,39.3,2,14,4,8,10,82,8.2
+10,Ty Long,http://www.espn.com/nfl/player/_/id/2582324/ty-long,LAC,P,8,24,"1,148",69,47.8,39.0,0,7,1,2,16,192,12.0
+11,Logan Cooke,http://www.espn.com/nfl/player/_/id/3115480/logan-cooke,JAX,P,8,34,"1,603",64,47.1,43.6,0,10,1,12,11,102,9.3
+12,Jordan Berry,http://www.espn.com/nfl/player/_/id/2472364/jordan-berry,MIN,P,8,39,"1,835",63,47.1,42.0,1,12,1,8,20,134,6.7
+13,Michael Dickson,http://www.espn.com/nfl/player/_/id/3929851/michael-dickson,SEA,P,8,43,"2,022",68,47.0,40.8,0,20,7,9,18,129,7.2
+14,Cameron Johnston,http://www.espn.com/nfl/player/_/id/3051397/cameron-johnston,HOU,P,9,48,"2,247",69,46.8,43.0,0,20,2,13,22,145,6.6
+15,Pat O'Donnell,http://www.espn.com/nfl/player/_/id/16863/pat-odonnell,CHI,P,9,35,"1,635",63,46.7,37.8,0,11,2,9,21,271,12.9
+16,Kevin Huber,http://www.espn.com/nfl/player/_/id/12669/kevin-huber,CIN,P,9,36,"1,670",61,46.4,40.9,0,15,4,10,12,117,9.8
+17,Rigoberto Sanchez,http://www.espn.com/nfl/player/_/id/3914922/rigoberto-sanchez,IND,P,9,33,"1,516",79,45.9,41.8,0,13,1,7,16,117,7.3
+18,Riley Dixon,http://www.espn.com/nfl/player/_/id/2577619/riley-dixon,NYG,P,9,34,"1,561",63,45.9,40.4,0,11,3,7,13,129,9.9
+19,Arryn Siposs,http://www.espn.com/nfl/player/_/id/4371989/arryn-siposs,PHI,P,9,32,"1,467",68,45.8,40.4,0,9,2,6,14,133,9.5
+20,Mitch Wishnowsky,http://www.espn.com/nfl/player/_/id/4035685/mitch-wishnowsky,SF,P,8,27,"1,230",65,45.6,42.3,0,15,2,8,8,49,6.1
+22,Cameron Nizialek,http://www.espn.com/nfl/player/_/id/3072765/cameron-nizialek,ATL,P,4,18,817,62,45.4,39.8,0,6,2,3,7,61,8.7
+21,Sam Koch,http://www.espn.com/nfl/player/_/id/9789/sam-koch,BAL,P,9,39,"1,740",57,44.6,40.6,0,15,2,11,15,116,7.7
+22,Matt Haack,http://www.espn.com/nfl/player/_/id/3043237/matt-haack,BUF,P,8,23,"1,026",60,44.6,37.8,1,6,4,3,9,38,4.2
+23,Jamie Gillan,http://www.espn.com/nfl/player/_/id/3936185/jamie-gillan,CLE,P,9,27,"1,203",65,44.6,39.8,0,9,1,7,15,109,7.3
+24,Sam Martin,http://www.espn.com/nfl/player/_/id/15928/sam-martin,DEN,P,9,37,"1,642",68,44.4,40.6,0,18,2,14,12,98,8.2
+25,Michael Palardy,http://www.espn.com/nfl/player/_/id/17475/michael-palardy,MIA,P,10,47,"2,076",61,44.2,39.6,0,16,5,16,15,114,7.6
+26,Pressley Harvin III,http://www.espn.com/nfl/player/_/id/4240485/pressley-harvin-iii,PIT,P,8,34,"1,494",63,43.9,40.3,0,14,2,7,13,83,6.4
+27,Johnny Hekker,http://www.espn.com/nfl/player/_/id/15153/johnny-hekker,LAR,P,9,26,"1,125",57,43.3,41.3,0,14,1,11,5,32,6.4
+28,Bradley Pinion,http://www.espn.com/nfl/player/_/id/2977680/bradley-pinion,TB,P,8,27,"1,156",65,42.8,38.5,0,12,2,9,11,76,6.9
+31,Johnny Townsend,http://www.espn.com/nfl/player/_/id/3054971/johnny-townsend,TEN,P,3,11,465,63,42.3,37.0,0,2,1,5,4,38,9.5
+32,Joseph Charlton,http://www.espn.com/nfl/player/_/id/3924357/joseph-charlton,CAR,P,5,21,821,54,39.1,35.8,1,8,0,14,3,33,11.0
+33,Ryan Winslow,http://www.espn.com/nfl/player/_/id/3045166/ryan-winslow,CAR,P,2,13,502,46,38.6,37.2,0,3,0,2,8,19,2.4
+34,Tristan Vizcaino,http://www.espn.com/nfl/player/_/id/3127313/tristan-vizcaino,LAC,PK,6,1,32,32,32.0,26.0,0,1,0,0,1,6,6.0

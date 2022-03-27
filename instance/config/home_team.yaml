@@ -1,0 +1,11 @@
+team_name: '49ers'
+pass_pct: .5
+pass_stats:
+  yds: 7.84
+  sd: 2.29
+run_stats:
+  yds: 3.9
+  sd: 4
+punt_stats:
+  yds: 45.7
+  sd: 10
